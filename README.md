@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, I configured Ubuntu, Windows, and Samba File servers.
+In this project, I configured Ubuntu, Windows, and Samba File servers. Please see the RBynoe_Ubuntu Project.pdf file.
 <br />
 
 
